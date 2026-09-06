@@ -1,5 +1,11 @@
 {
   "version": 1,
-  "updatedAt": null,
-  "entries": {}
+  "updatedAt": "2026-09-06T22:59:34.279Z",
+  "entries": {
+    "5b1d84aaec9940efa671c645fcd3d7686cb1d76d0c896ff29f6857c4c3026824": {
+      "token": "eyJlbWFpbCI6IndhbmRlbG9yZEBnbWFpbC5jb20iLCJ0aWVyIjoicHJvIiwiaXNzdWVkQXQiOiIyMDI2LTA5LTA2VDIyOjU5OjMyLjg5M1oiLCJzaWduYXR1cmUiOiJFS1ZwQ3BWcG9kbTcwbVB1eFFxVWZYbTdqVFFNSW41TDV1bEMxVDVJbUFCaW9mMHJxT3ppbFptYzZIZHZFQXVWV3JXYWZkUDZxTDZSTVlIQnZkRlRDUSJ9",
+      "tier": "pro",
+      "issuedAt": "2026-09-06T22:59:32.893Z"
+    }
+  }
 }
